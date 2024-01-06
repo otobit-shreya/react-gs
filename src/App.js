@@ -56,7 +56,7 @@ function App() {
       </div>
       <div className="main">
         <div class="logo-main">
-          <img src="sang.png" />
+          <img src="sang.png" alt="img" />
         </div>
         <div>
           <h1 class="logo-main-text">Sangarsh 2024</h1>
